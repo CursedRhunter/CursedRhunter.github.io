@@ -1,0 +1,18 @@
+body { color: lightgreen;
+background-color: #3e3b3b;
+font-family: Verdana;
+font-size: 120%;
+text-align: center;
+
+}
+a { color: lightblue;
+}
+h1 { font-family: Arial;
+
+}
+header { font-style: italic;
+
+}
+h1, figcaption { color:orange;
+}
+
